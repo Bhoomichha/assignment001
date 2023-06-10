@@ -1,0 +1,54 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 10%;
+    float: left;
+
+}
+
+
+
+
+* {
+    margin-top: 2px;
+}
+
+body {
+    background-color: rgb(231, 229, 245);
+    color: rgb(28, 27, 27);
+    width: 100%;
+    overflow-x: hidden;
+    line-height: 110%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+ 
+
+
+}
+
+a {
+
+    font-size: 25px;
+    color: brown;
+    text-decoration: none;
+    margin-left: 8%;
+}
+
+a:hover {
+    background-color: rgb(207, 206, 218);
+    color: rgb(219, 79, 79);
+}
+
+#navLinks {
+    text-align: left;
+    margin-top: 0px;
+    margin-bottom: 65px;
+    margin-left: 20%;
+    margin-right: 5%;
+}

@@ -1,0 +1,77 @@
+img {
+    height: 300px;
+    width: 320px;
+    border-radius: 20%;
+    border-color: black;
+    border-style: double;
+    border-width: 6px;
+    margin-top: 5px;
+    margin-right: 170px;
+    float: right;
+}
+
+* {
+    margin-top: 2px;
+    
+}
+
+body {
+    background-color: rgb(231, 229, 245);
+    color: rgb(28, 27, 27);
+    width: 100%;
+    line-height: 110%;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+
+ 
+
+}
+
+
+// * {
+//     background-color:
+//     margin-left: auto;
+//     margin-right: auto;
+
+
+
+// }
+
+
+h1 {
+    text-align: center;
+    margin-top: 45px;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+#aboutMe {
+    font-size: 25px;
+    margin-right: 550px;
+    margin-left: 120px;
+
+}
+
+#secondPara {
+    color: rgb(0, 126, 131);
+    font-size: 25px;
+    margin-right: 550px;
+    margin-left: 120px;
+    
+}
+
+ul {
+    list-style-image: url('../../assets/img/animated-bullet-10.gif');
+    color: rgb(247, 111, 14);
+    font-size: 25px;
+    margin-left: 120px;
+}
+#abtMeCtd{
+    font-size: 25px;
+    margin-right: 50px;
+    margin-left: 120px;
+}
+
+blockquote {
+    text-align: center;
+}
